@@ -1,33 +1,3 @@
-# rc-calendar
----
-
-React Calendar
-
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![gemnasium deps][gemnasium-image]][gemnasium-url]
-[![npm download][download-image]][download-url]
-[![Code Quality: Javascript][lgtm-badge]][lgtm-badge-url]
-[![Total alerts][lgtm-alerts]][lgtm-alerts-url]
-
-[npm-image]: http://img.shields.io/npm/v/rc-calendar.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/rc-calendar
-[travis-image]: https://img.shields.io/travis/react-component/calendar.svg?style=flat-square
-[travis-url]: https://travis-ci.org/react-component/calendar
-[codecov-image]: https://img.shields.io/codecov/c/github/react-component/calendar/master.svg?style=flat-square
-[codecov-url]: https://codecov.io/gh/react-component/calendar/branch/master
-[gemnasium-image]: http://img.shields.io/gemnasium/react-component/calendar.svg?style=flat-square
-[gemnasium-url]: https://gemnasium.com/react-component/calendar
-[node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
-[node-url]: http://nodejs.org/download/
-[download-image]: https://img.shields.io/npm/dm/rc-calendar.svg?style=flat-square
-[download-url]: https://npmjs.org/package/rc-calendar
-[lgtm-badge]: https://img.shields.io/lgtm/grade/javascript/g/react-component/calendar.svg?logo=lgtm&logoWidth=18
-[lgtm-badge-url]: https://lgtm.com/projects/g/react-component/calendar/context:javascript
-[lgtm-alerts]: https://img.shields.io/lgtm/alerts/g/react-component/calendar.svg?logo=lgtm&logoWidth=18
-[lgtm-alerts-url]: https://lgtm.com/projects/g/react-component/calendar/alerts
-
 ## Screenshots
 
 <img src="https://img.alicdn.com/tps/TB1mYC8KVXXXXaHXXXXXXXXXXXX-566-678.png" width="288"/>
@@ -37,14 +7,6 @@ React Calendar
 <img src="https://img.alicdn.com/tps/TB1QYqPKVXXXXasXVXXXXXXXXXX-1196-712.png" width="288"/>
 
 <img src="https://img.alicdn.com/tps/TB1nAGDKVXXXXXvapXXXXXXXXXX-1206-730.png" width="500"/>
-
-## Feature
-
-* support ie9,ie9+,chrome,firefox,safari
-* support date, month, year, decade select panel
-* support week number
-* support en_US and zh_CN locale(UI), use moment.utcOffset to set timezone
-* support aria and keyboard accessibility
 
 ### Keyboard
 
